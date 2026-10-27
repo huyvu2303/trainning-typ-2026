@@ -1,0 +1,6 @@
+com\courseshop\courseshop\controller\AuthController.class
+com\courseshop\courseshop\service\AuthService.class
+com\courseshop\courseshop\model\LoginRequest.class
+com\courseshop\courseshop\config\SecurityConfig.class
+com\courseshop\courseshop\exception\EmailAlreadyExistsException.class
+com\courseshop\courseshop\model\TokenResponse.class
